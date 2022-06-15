@@ -1,0 +1,5 @@
+做图像的同学就可以优先考虑下这个相机：
+https://www.daheng-imaging.com/show-93-193-1.html(用于定位)
+彩色相机建议用CSI相机，带宽大且NV有专门的优化，可以在这个网站找
+https://developer.nvidia.com/embedded/jetson-partner-supported-cameras
+申请估计比较久，购买渠道你们发邮件问一下，省赛可能拿不到，但是尽快拿到可以做测试
